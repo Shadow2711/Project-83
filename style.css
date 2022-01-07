@@ -1,0 +1,21 @@
+ body{
+    background-image: url("canvas_texture.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+  input
+  {
+    margin-right: 20px;
+  }
+  
